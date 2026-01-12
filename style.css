@@ -1,3 +1,35 @@
-body {
+@charset "utf-8";
 
+h2 {
+	font-family: Consolas, "Courier New", "monospace";
+	font-weight: lighter;
+	font-size: xx-large;
+}
+
+body {
+	background-color: burlywood
+}
+
+img {
+	width: 250px
+}
+
+img:hover {
+	width: 300px
+}
+
+img {
+	border-style: solid;
+	border-width: 5px;
+}
+
+
+
+a {
+	color: black
+}.homeButton {
+}
+.playButton {
+}
+.aboutButton {
 }
