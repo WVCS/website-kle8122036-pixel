@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+	<style>
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h2, p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+</style>
+<meta charset="utf-8">
+<title>page2.html</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">Play My Game</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+	<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/gnlZHr3hqnxhhzo60vumw3HVjQq_-aH1mLIpjBjhlRn/embed?nosource"></iframe>
+	<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/HxEAVoI19Zw2yudGpPC5yLGBNgifHMochgF4ozQoLps/embed?nosource"></iframe>
+</body>
+</html>
